@@ -1,0 +1,284 @@
+Privacy And Cookie Policy
+
+
+Last updated: 12th July,  2024
+
+
+Overview
+
+
+1. This Privacy and Cookie Policy explains what data is collected in connection with our products, games, and services.
+2. This Privacy and Cookie Policy also explains how we use and do not use data you transmit when accessing and playing games, accessing, and using websites, products, and services.
+3. This Privacy and Cookie Policy explains your rights in relation to your personal data.
+
+
+In brief:
+• In order for you to play our games or use our products and/or services we need to process some of your data. Should we need to process your data for any other purpose than offering you our games, products and services, we will always ask you for your consent in advance.
+• Some partners help us in developing or supporting our games and services; so we may share limited data with them.
+• We will not share your data for third-party advertising purposes.
+
+
+PLEASE TAKE A MOMENT TO FAMILIARIZE YOURSELF WITH THIS PRIVACY AND COOKIE POLICY.
+
+
+You are not required to provide your consent to this Privacy and Cookie Policy. However, if you choose not to do so, in many cases we will not be able to provide you with our games, products, or services or respond to your requests.
+
+
+1. Who We Are
+
+
+Maxbuff Coöperatie U.A., a Dutch company with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, in respect of game development, tests, and as an owner of the Corepunk Game and website,
+
+
+Corepunk B.V., a Dutch company with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, in respect of Corepunk Game selling to end customers (end-user licensing), payments accepting and checking on
+
+
+(hereinafter referred to as “we” or “us”) respects your privacy and provides you with this Privacy and Cookie Policy (hereinafter referred to as “Privacy Policy” or “Privacy and Cookie Policy”).
+
+
+2. Scope of Our Policy
+
+
+2.1. This Privacy Policy applies to: all our websites, games, forums, social media channels, customer and technical support and any other services we provide to you.
+2.2. We respect your right to privacy and will only process data in accordance with applicable law in the European Union and other countries where we offer our games, products, and services.
+2.3. When you click a link to other sites from our website (corepunk.com or any other), this Privacy Policy does not apply to, and we cannot control the activities on, those other sites. We highly recommend that you read the privacy policy of any third-party website you may be directed to before providing any personally identifiable information.
+2.4. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on our websites or in this Privacy Policy and, if necessary, provide you additional options regarding such change before the change becomes effective. Your continued use of our websites, games, products and/or services will signify your acceptance of these changes.
+
+
+3. Categories of Data We Collect
+
+
+3.1. We only collect the data as stipulated in this Privacy and Cookie Policy. The data we collect depends on how you interact with us. We collect information you provide to us when you access, use, request or purchase a game, products or services, request information from us, register in our services (game, website, forum etc.), or otherwise interact with us. 
+3.2. We can receive data both directly from you and indirectly from third parties such as payment processors and third-party services that support us, our game, and services. In such cases, we require that third-party service providers are compliant with legislation and obtain consent from you that corresponds to our usage of data. 
+3.3. Your data, which we may collect directly from you: 
+* email address 
+* country 
+* nickname (username)
+* profile picture
+* age identification
+* IP address
+* cookies
+* information provided by you in requests.
+
+
+An Internet Protocol (“IP”) address is a unique number assigned by your Internet Service Provider (“ISP”) that identifies your device on the Internet. We may track such IP addresses for system administration, to report aggregate information, tax compliance, site tracking, security purposes, or to prevent our servers from being abused. 
+
+
+If you contact our technical support, we may require and process other data to help you with any queries or support matters, such as data collected in crash logs that are gathered by your device or the technical parameters of the device you use to interact with our games, products and/or services.
+
+
+3.4. We may process the following categories of data from third-party sources.
+
+
+We may collect data about you from other individuals — for example, if that individual has sent you a product or gift card or invited you to participate in a game or service.
+
+
+When you make any payments, the payment service providers and/or we may ask you to provide certain personally identifiable information, such as full name, billing address, email address, phone number, etc. We use services from well-known and secure service providers; however, please note that the service provider has its own privacy policy which we advise you to review before sharing your information. Payment service providers process your data with their own applicable legal requirements. We and the payment service providers are not joint data controllers but are separate controllers. We may process billing (payment) data (billing address, method of payment, or other payment information), your full name, home or mobile telephone number, address, data about purchases of our products and services received from you, and/or payment service providers in a volume and for the period required by applicable law, including but not limited to tax purposes. We do not, however, receive any of your actual payment details. 
+
+
+When you purchase our game and other services, you will submit your data via our online store provider and payment provider - Shopify, we collect such information you identified during the purchasing process in the online store:
+* full name or name you indicated
+* email address 
+* mailing and billing address
+* phone number
+* country
+* information about payment
+* other information that you can provide during online shopping
+Shopify processes your data with its own applicable legal requirements. We and the online store provider are not joint data controllers but are separate controllers. We advise you to review the Shopify Privacy Policy (available on the website www.shopify.com) before sharing your data.
+
+
+Our websites may include certain social media features such as the Facebook "Like" button, and widgets such as the "Share this" button or interactive mini-programs that run on our websites. These features may collect your Internet Protocol (“IP”) address, which pages of our websites you are visiting, and may set a cookie to enable the feature to function properly. Social media features and widgets are hosted by a third party or hosted directly on our websites. Your interactions with these features are governed by the privacy policy of the company providing the feature.
+
+
+Additionally, communications made using a product or service should not be considered private. We may monitor and/or record your communications (including, but not limited to, chat text) when you are using a game, product, or service for the purpose of toxicity analysis, cheating, and fraud prevention, or for enforcement of our agreements and/or terms of use. You hereby provide your irrevocable, express consent to such monitoring and recording. You acknowledge and agree that you have no expectation of privacy concerning the transmission of any User-generated content or communications, including, but not limited to, chat text, or voice communications. Because voice chat and other communications may be viewed and/or heard by other Users, Users should avoid revealing any personally identifiable information in those communications.
+
+
+In specific cases, we may ask you to provide a copy of a document or government-issued ID to verify your identity and/or location. When photo identification is provided to us, it is normally deleted as soon as the identification verification is completed or after 30 days, if the case is not addressed within this period of time, unless otherwise required to establish, defend, or exercise our legal rights.
+
+
+Information Collected Automatically. In addition, your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to us. We may use this information to generate aggregate statistics about our game community. In addition, we may use such information for security, system integrity (the prevention of hacking, cheating, etc.), or enforcement purposes.
+
+
+You are not required to provide any of your data that we or a third party associated with us might request. However, if you choose not to do so, in many cases we will not be able to provide you with our games, products or services or respond to your requests.
+
+
+We may also have message boards, and/or chat areas, where Users can exchange ideas and communicate with each other. When posting to a message board, or chat area, the posted content is publicly available online and, so, the User posts information at his or her own risk. 
+
+
+4. Purposes and Legal Basis for The Data Processing
+
+
+We may use your data for a variety of business and legal purposes including to:
+- provide, operate, improve, update, and maintain the games, game software, game experience, products, websites, forums and services, your account
+- improve design and functionality of our games, products, websites, services 
+- monitor your playing of games and activities in the game
+- manage the game and send you confirmations and important information about your account, game, products, purchases, subscriptions, and warranties
+- communicate with you in relation to the game and related matters
+- provide news and information about the game, products, and services
+- personalize the game, content, loyalty programs and related services
+- process your transactions 
+- send technical notices, updates, and security alerts
+* identify, troubleshoot, and fix bugs and services 
+* send support and administrative messages
+* provide security and fraud prevention 
+* facilitate sharing on social networks
+* solicit your opinion about the game and related matters through surveys or questionnaires
+* resolve disputes, investigate, and help curb fraud and illegal behavior, to monitor for toxicity
+* enforce our agreements and policies
+* comply with tax, legal and accounting requirements
+* comply with applicable law. 
+
+
+We may also use data for other purposes with your prior consent.
+
+
+We use your data only when we have a valid legal basis to do so. Depending on the circumstances, we may rely on your consent or the fact that the processing of your data is necessary to fulfill a contract with you, protect your vital interests or those of other persons, or to comply with applicable law. We may also process your data where we believe it is in our or others’ legitimate interests, taking into consideration your interests, rights, and expectations.
+
+
+If anonymized, we may use your data for other purposes.
+
+
+5. The Data May Be Transferred To
+
+
+5.1. We do not sell or otherwise share personal information about you, except as described in this Privacy Policy. We do not share your data with third parties for their own marketing purposes.
+5.2. We may share your data with our affiliated companies and subsidiaries for the purposes described in this Privacy Policy.
+5.3. We may disclose/transfer your data to the following service providers:
+(a) developers of the game, website, products, and services;
+(b) publishers and resellers of the game, products, and services licensed by us;
+(с) service providers and contractors whom we engage to provide services to us, such as providing customer support; monitoring activity on our website, forum, game; administering, sending, and monitoring emails and text messages, media partners, event ticket providers, merchandise vendors, survey providers, consumer services support etc.;
+(d) providers of hosting, maintenance, and security services to run the website, game, products and services;
+(e) service providers on processing or storing data, in connection with your use of our game, website, products and services;
+(f) advertising and marketing companies that aggregate your data from different sources to evaluate certain aspects relating to you, to perform marketing research;
+(g) payment providers;
+(h) providers of mailing and courier services in order to deliver you gifts, merchandise, gift cards, products, etc. 
+
+
+All above-mentioned service providers may be located in countries outside the European Union (“EU”) and/or the European Economic Area (“EEA”) which may not have the same level of data protection laws as those in the country where you are located. When your data is sent to a country outside the EU/EEA that is not subject to an adequacy decision by the EU Commission, the transfers will only occur based on the following safeguards (i) i) through a provision of appropriate safeguards and on condition that enforceable rights and effective legal remedies are available for individuals, or ii) if we have entered into EU Commission approved standard contractual clauses with the entity, which are deemed to offer sufficient safeguards with respect to the protection of the privacy and fundamental rights and freedoms of individuals. In any case, service providers are obligated to handle your data consistent with this Privacy Policy and according to applicable law; that is, such service providers must agree to reasonable and adequate levels of protection and security regarding your data. 
+
+
+5.4. We may also disclose information about you where there is a lawful basis for doing so, if we determine that disclosure is reasonably necessary to enforce our terms and conditions or to protect our operations or Users, or in civil litigation; if we determine that for purposes of national security, or other matters of public importance, disclosure is necessary or appropriate; if there is legitimate grounds for such disclosure to government authorities, including tax authorities and police (which may be government authorities of any country).
+5.5. If you purchase a product, service or license a game from another company, we may share some of your information with that company so that it may establish a direct relationship with you. Because of the aforementioned sharing of information, you may receive communications from that company.
+5.6. As with any business, your data is also an asset for us and will become part of our normal business records. Thus, we may also disclose your data to a third party, if we should sell a line of business to that third party, so that you can continue to receive service and information in connection with that line of business with minimal disruption. Similarly, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, your personal information may be transferred to our successor or assignee.
+
+
+6. Transfer of Data between Countries
+
+
+Our game is a global game that allows you to play with players who are outside of the region associated with the game account that you have registered. The features of a global game require that some or all of your data provided to us when you register the game account must be transferred to servers operated by us that can be in different  regions. By agreeing to participate in a game and consenting to this Privacy Policy, you agree that we can transfer your data to and from, process, use, share, and store your information, including personal data, at other jurisdictions where we conduct business or provides games, products and/or services and/or has servers, service providers, etc., subject to appropriate safeguards.
+
+
+7. Storage Period
+
+
+We store your data for as long as required to achieve the purposes of their processing, and/or as long as your account in the game, website and/or forum is active, as well as no more than 5 years after that for reporting purposes unless a longer storage period is required by applicable law. We may still retain some of your information in our files for a reasonable period of time to resolve disputes, enforce our agreements, terms, or conditions, administer our games, and services, comply with technical and legal requirements, and/or other constraints related to the security, integrity, and operation of our games, products, and services, after which we will take steps to delete or archive your information.
+
+
+8. Your Rights and Choices
+
+
+It is our intent to inform you about your rights regarding your personal information. Except where an exception or exemption applies, these rights include the ability to access, correct, and request deletion or transfer of your data. To exercise any of the rights you should contact us via the following email: support@corepunk.com.
+
+
+8.1. Right to access. You can ask us to confirm whether or not we process your data. In case we do process your data, you can access this data and ask us to explain certain details of how and for what purpose it is processed; however, we will respond to no more than two verifiable requests within a 12-month period. 
+8.2. Right to rectification. You can ask us to correct inaccurate data concerning you. You can ask us to complete incomplete data, when that action complies with the purposes for which the data is processed. 
+8.3. Right to erasure ("right to be forgotten"). You can ask us to erase your data under applicable law. For example, this applies if (1) your data is no longer necessary in relation to the purposes for which it was processed; or (2) you withdraw consent to the processing and there are no other legal grounds for the processing; or (3) your data has been unlawfully processed. 
+The deletion of a game and/or a website account is permanent and cannot be reversed; also, all games, assets and history will also be permanently deleted. We may retain personal information when necessary: (a) to protect our business, systems, and Users from fraudulent activity, (b) to address technical issues that impair existing functionality, (c) to ensure for us, or others, the exercise of free speech or other rights, (d) to comply with law enforcement requests pursuant to lawful process, (e) to advance scientific or historical research, (f) to pursue own internal purposes reasonably related to your relationship with us, or to comply with legal obligations, (g) to assist in other matters foreseen by this Privacy Policy. 
+8.4. Right to restrict processing. You can ask us to mark the stored data in order to limit its processing in the future under applicable law. This applies if (1) you contest the accuracy of your data; or (2) you ask to restrict the use of your data when its processing is unlawful; or (3) you need personal data to protect your rights when we no longer needs your data; or (4) you have objected to the processing of your data, pending the verification whether the interests pursued by us or by a third party in processing your data are compelling and legitimate. 
+8.5. Right to object to processing. You can object, on grounds relating to your particular situation, at any time to processing of your data pending the verification whether the interests pursued by us or by a third party in processing your data are compelling and legitimate. We shall cease to process your data unless we demonstrate compelling legitimate grounds for the processing which override your interests, rights, and freedoms or for the establishment, exercise, or defense of legal claims.
+Where your data is processed for direct marketing purposes, you have the right to object at any time to its processing for such marketing. Where you object to processing for direct marketing purposes, your data shall no longer be processed for such purposes.
+8.6. Right to portability. When the processing is based on your consent or on a contract (agreement) with you, you can obtain the data you have provided to us in a structured, commonly used, and machine-readable format and can freely transmit that data to another controller. Where technically feasible, you can also ask us to transmit your data directly to another controller. 
+8.7. Right to withdraw consent at any time. Where the processing is based on consent, you can withdraw your consent at any time by sending us an email to  support@corepunk.com. The withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal. 
+8.8. Right to file a complaint with a supervisory authority. When Article 77 of the General Data Protection Regulation (GDPR) applies, you can file a complaint with a supervisory authority.
+
+
+9. Protection of Your Data
+
+
+We use administrative, technical, and physical safeguards to protect your data against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use, taking into account the nature of the data and the processing, and the threats posed (unless the data is non-confidential by nature, for example, publicly available information like User-generated content, leaderboard rankings, forum posts and scores, etc.).
+
+
+We request our service providers which process your information on our behalf to themselves take a range of security measures designed to help protect your data. However, the Internet by its nature is not a secure environment and the nature of security risks is constantly evolving, as are the technical and organizational industry standards relating to management of those risks. The complete security of any personal information collected, stored or used by us or our service providers cannot therefore be guaranteed.
+
+
+It is very important for you to understand that you control the security of your account to a great extent. You are advised to choose a password you don’t use on any other system and to change your password occasionally. 
+
+
+
+
+10. Information for California Residents
+
+
+10.1. These additional disclosures for California residents apply only to individuals who reside in California. Without being discriminated against for exercising these rights, if you are a California resident, you have a right to knowledge, access, and deletion of your data under the California Consumer Privacy Act. You also have a right to opt out of the sale of your data by a business and a right not to be discriminated against for exercising one of your California privacy rights. 
+10.2. Right to opt-out. Under the California Consumer Privacy Act, you have the right to opt out of the sale of your data to third parties at any time. We do not sell your personal data and does not discriminate in response to privacy rights requests.
+10.3. For security purposes, we will verify your identity – in part by requesting certain information from you - when you request to exercise your California privacy rights. You also have the right to designate an agent to exercise these rights on your behalf. 
+10.4. We provide notice of our privacy practices in our Privacy Policy. The Privacy Policy includes what data is collected, its sources, and the purposes of use, as well as whether we disclose your data and if so, the categories of third parties to whom it is disclosed. 
+10.5. We  collect the categories of data that are mentioned in the "Categories of Data We Collect" section. We collect and use these categories of data for the business purposes described in the "Purposes and Legal Basis for The Data Processing" section.
+10.6. Right to know and delete. If you are a California resident, you have the right to delete the data we have collected and you have the right to know certain information about our data practices in the preceding 12 months. In particular, you have the right to request the:
+* categories of personal information we have collected about you
+* categories of sources from which the personal information was collected
+* categories of personal information about you we disclosed for a business purpose or sold
+* categories of third parties to whom the personal information was sold or disclosed for a business purpose
+* business or commercial purpose for collecting or selling the personal information
+* specific pieces of personal information we have collected about you.
+If we delete your data, we will certainly both render your data about you permanently unrecoverable and also deidentify your data.
+To exercise any of these rights, please contact us via the following email: support@corepunk.com.
+10.7.  Do Not Track. We do not track customers over time and across third-party websites to provide targeted advertising and therefore do not respond to Do Not Track (DNT) signals. Third parties that have content embedded on our websites, such as a social feature or a stock ticker, may set cookies on a user’s browser and/or obtain information about the fact that a web browser visited a specific our website from a certain IP address. Third parties cannot collect any other personally identifiable information from our websites unless you provide it to them directly.
+
+
+11. Information for Nevada Residents
+
+
+These additional disclosures for Nevada residents apply only to individuals who reside in Nevada. Without being discriminated against for exercising these rights, if you are Nevada resident who has purchased/used our website, game, products and/or services, you may opt out of the “sale” of “covered information” (as such terms are defined under Nevada law) for monetary consideration to a person for that person to license or sell such information to additional persons, under the Nevada Privacy of Information Collected on the Internet from Consumers Act (NPICICA). “Covered information” includes first and last name, address, email address, and phone number, or an identifier that allows a specific person to be contacted either physically or online. 
+We do not sell your data. Nonetheless, you may submit a request to record your preference to opt-out for the future by sending email to support@corepunk.com.
+
+
+12. Cookies and Other Tracking Technologies
+
+
+Cookies. A cookie is information a website places on your computer’s hard drive so that the website is able to remember your preferences and/or which pages you visited on a website and make your visit more efficient and enjoyable. 
+
+
+We use
+1. Cookies that provide authorization on the website (including the forum section).
+2. Cookies to provide social authorization (Google and Facebook social authorization providers).
+3. Cookies to customize website language.
+4. Supplementary cookies to implement forum functionality.
+
+
+Log files. Log files are files that log actions that have occurred on a website. We  may collect data in the form of log files and may use such log files to gather statistics about you and your habits and to assess overall game activity, including how many "hits" a particular web page is getting and other navigational data. These entries are generated anonymously, and enable us to track interest in specific promotions, troubleshoot technical concerns, and provide you with content that may be of interest to you. Log files are used internally only, and are not associated with any particular User, computer, or browser.
+
+
+Web beacons. Websites may use a variety of technical methods for tracking purposes, including “Web beacons” etc. Web beacons are small pieces of data that are embedded in images on the pages of websites. We may also use these technical methods to analyze the traffic patterns on our websites such as the frequency with which you access various parts of websites etc. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML emails that we send you to determine whether you have opened those emails or clicked on links in those emails. The information from use of these technical methods may be collected in a form that is personally identifiable.
+
+
+13. Claims
+
+
+Our goal is to resolve disputes fairly and quickly. For all disputes against us, you agree first to contact us and try to resolve the dispute informally by sending a written notice of the claim ("notice") to us. The notice to us must be sent via registered letter to the address listed in section 15 below or by email with confirmation of receipt. The notice must (a) include your name, your residential address and email address associated with your account registered with us and/or the platform/service provider; (b) describe the type and reason for the claim; and (c) specify the specific resolution sought, if any. If you and we cannot agree on a solution to the dispute within 60 days of receiving such a notice, either party may initiate legal proceedings in accordance with section 14 below.
+
+
+
+
+14. Governing Law and Dispute Resolution
+
+
+This Privacy Policy shall be governed by and construed in accordance with the laws of the Netherlands. This Privacy Policy shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. 
+By agreeing to this Privacy Policy, in the event of any claim you may have arising from or related hereto, you agree to the exclusive personal and subject matter jurisdiction of the courts located in Amsterdam, the Netherlands, for making and resolving any such claims, and hereby waive any right to participate in any type of lawsuit brought and/or maintained as a class action or similar in nature to a class action. 
+Notwithstanding anything to the contrary, we may apply to any court of competent jurisdiction for injunctive or other equitable relief.
+
+
+
+
+15. Contacting Us 
+
+
+If you have any questions, complaints, or comments regarding our Privacy Policy or your data, please contact us at:
+
+
+Corepunk B.V. 
+Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands
+
+
+Email: support@corepunk.com
+{July 2024}
