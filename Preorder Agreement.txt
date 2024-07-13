@@ -1,7 +1,7 @@
 Corepunk Preorder Agreement
 
 
-Last revised: 12 July 2024
+Last revised: 13 July 2024
 
 
 IMPORTANT NOTICE:
@@ -99,6 +99,12 @@ A natural person ordering Early access to the COREPUNK GAME in accordance with t
 We may request additional information to identify you and proceed with the refund. You will receive your refund within approximately 14 (fourteen) business days.
 7.3. To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
 7.4. We reserve the right to cancel your or all Preorders by terminating this Agreement or by announcement on the Website at any time for any or no reason before our notice to you that the Early Access to the COREPUNK GAME is available and will refund you in full. We may request additional information to identify you and proceed with the refund. You will receive your refund within approximately 14 (fourteen) business days after our notification. 
+7.5. Chargebacks: All chargebacks for Preorder will be investigated thoroughly. Any fraudulent chargebacks will be contested, and we reserve the right to take legal action to recover the disputed amount.
+7.6. Account Security: Customers are responsible for maintaining the security of their accounts and for all activities that occur under their account. Any unauthorized use or breach of account security must be reported immediately to our Customer Support Email.
+7.7. Payment Information: Orders with invalid or fraudulent payment information will be automatically canceled and reported to the relevant authorities. We reserve the right to cancel Preorder or terminate account at our discretion if fraudulent activity is detected.
+7.8. Excessive Cancellations and Refunds: Excessive cancellations and refund requests may result in account suspension, investigation, or both. We reserve the right to limit or refuse refund requests if abuse is suspected.
+7.9. Automated Systems: The use of automated systems, including bots, to place Preorders is strictly prohibited. Any orders placed using such systems will be canceled, and we reserve the right to take legal action against individuals or entities employing such systems.
+7.10. False Claims: False claims of non-receipt or defectiveness will be investigated. Customers found making false claims may be banned from future purchases, and legal action may be taken to recover any losses incurred due to such claims.
 
 
 8. Limitations of Liability
