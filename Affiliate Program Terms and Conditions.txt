@@ -1,4 +1,4 @@
-﻿Affiliate Program Terms and Conditions
+Affiliate Program Terms and Conditions
 Date: 13th July 2024
 Welcome to the Corepunk Affiliate Program!
 Affiliate Program in Brief
@@ -33,7 +33,7 @@ Please review these Corepunk Affiliate Program Terms and Conditions carefully.
 4.1. For each sale of a Preorder made through the unique Affiliate link, the Affiliate will earn a Commission. Affiliates are not permitted to refer themselves or make purchases through their own Affiliate link.
 4.2. Commission is calculated as 20% of the customer’s order amount for each sale made through the unique Affiliate link based on the Preorder price indicated on the Website. The Commission includes taxes.
 4.3. Commission Threshold: Commissions will be paid out provided that the Affiliate has reached the minimum payout threshold of 20 (twenty) Euros.
-4.4. Payment Schedule: Commissions will be paid out monthly, 60 (sixty) days after the end of the month in which the sale occurred. The currency of payment can be Euro or US Dollars.
+4.4. Payment Schedule: Commissions will be paid out 30 days after the early access release date. For all sales occurring after the early access release, commissions will be paid out monthly, 30 days after the end of the month in which the sale occurred. The currency of payment can be Euros or US Dollars.
 4.5. In any case where a sale is refunded to a Customer for any reason, the corresponding Commission for the Affiliate will be reversed. If the Commission has already been paid out to the Affiliate, the amount will be deducted from future earnings. If no future earnings are available, the Affiliate agrees to repay the Commission amount to the Company within 10 days after notice from us.
 4.6. In order to process the Commission payment, we may need to request additional information from you, including billing details and/or signing documents for accounting, tax, or payment purposes.
 5. Tax Obligations
