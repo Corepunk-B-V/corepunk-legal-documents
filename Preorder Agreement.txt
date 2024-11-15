@@ -1,7 +1,7 @@
 ﻿Corepunk Preorder Agreement
 
 
-Last revised: 18 July 2024
+Last revised: 15 November  2024
 
 
 IMPORTANT NOTICE:
@@ -69,10 +69,11 @@ A natural person ordering Early access to the COREPUNK GAME in accordance with t
 
 
 5. Price and Payment for Preorder
-5.1. You will be charged the Preorder Fee indicated on the Website when you place your Preorder using the payment methods we offer via our payment providers. If the Preorder Fee or early access fee drops after you have preordered, we will NOT refund you the difference. After you purchase the Preorder, you will not need to pay more for Early Access and the released COREPUNK GAME.
+5.1. You will be charged the Preorder Fee indicated on the Website when you place your Preorder using the payment methods we offer via our payment providers. After you purchase the Preorder, you will not need to pay more for Early Access and the released COREPUNK GAME. 
 5.2. The Preorder Fee includes all taxes and other charges.
 5.3. Placing a Preorder constitutes your express agreement to be charged the Preorder Fee using the provided payment method.
 5.4. The price for the Preorder will depend on the Preorder pack you choose. The Preorder pack includes Early access to the COREPUNK GAME in version "Corepunk: Light Bless the King '', as well as Preorder bonuses described on the Website, and the released COREPUNK GAME in the version “Corepunk: Light Bless the King”. The rules for obtaining specific bonuses will be described on the Website.
+5.5. The price for the preorder will vary based on your region (country) of residence. In the event of a refund, the refunded amount will be adjusted according to the exchange rate effective on the date of the refund, in accordance with the payment provider's terms and conditions. Please note that the payment provider may charge additional fees if the payment is made in currencies other than Euros.
 
 
 6. No Guarantee of Delivery Date
@@ -85,7 +86,7 @@ A natural person ordering Early access to the COREPUNK GAME in accordance with t
 7.1. You can cancel your Preorder and receive a full refund at any time up until Early access to the COREPUNK GAME is made available to download or access.
 7.1.1. You have the right to withdraw from the Preorder and Early access to the COREPUNK GAME for any reason until the Early access to the COREPUNK GAME and Early access agreement (and license agreement) is available for you to download or access. After this event, you hereby acknowledge that you lose your right of withdrawal from the Preorder or Early access to the COREPUNK GAME and your right to a refund for the Preorder. However, you will still have the right to accept the Early access terms, pay the price difference (if any), and receive your early access.
 7.1.2. If for any reason cl. 7.1.1 is not applicable to you based on the legislation, then this cl. 7.1.2 should apply. Once the Early access to the COREPUNK GAME is made available for you to download or access, you have the right to withdraw from the Preorder, Early access to the COREPUNK GAME, and from accepting the Early access agreement (and license agreement) within fourteen (14) calendar days for any reason. Your right to withdraw starts from the day after the Early access to the COREPUNK GAME is available to download or access as announced on the Website. After this term, you hereby acknowledge that you lose your right of withdrawal from the Preorder or Early access to the COREPUNK GAME and your right to a refund for the Preorder. However, you will still have the right to accept the Early access terms, pay the price difference (if any), and receive your early access.
-7.1.3. In any case you hereby acknowledge that you lose your right of withdrawal from Preorder or Early Access to the COREPUNK GAME once the performance of the Early Access to the COREPUNK GAME has begun. 
+7.1.3. In any case, you hereby acknowledge that you lose your right of withdrawal from Preorder or Early Access to the COREPUNK GAME once the performance of the Early Access to the COREPUNK GAME has begun and you have played Early Access for 2 (two) hours and more. 
 7.2. To exercise the right of withdrawal, you should send an email to the Customer Support Email from the email address you used to make the Preorder and include the following:
 “I hereby give notice that I withdraw from my Preorder Agreement of the Early access to the COREPUNK GAME: ordering date:____, order number:____.“
 We may request additional information to identify you and proceed with the refund. You will receive your refund within approximately 14 (fourteen) business days.
