@@ -1,7 +1,7 @@
-Privacy And Cookie Policy
+﻿Privacy And Cookie Policy
 
 
-Last updated: 12th July,  2024
+Last updated: 26th November,  2024
 
 
 Overview
@@ -27,10 +27,13 @@ You are not required to provide your consent to this Privacy and Cookie Policy. 
 1. Who We Are
 
 
-Maxbuff Coöperatie U.A., a Dutch company with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, in respect of game development, tests, and as an owner of the Corepunk Game and website,
+COREPUNK GLOBAL LLC., a Kazakhstan company, registered under number 240540026644, with a registered office at 050060, Republic of Kazakhstan, Almaty city, Bostandyk district, Khusainova street, house No. 281, as an owner of the Corepunk Game and website
 
 
 Corepunk B.V., a Dutch company with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, in respect of Corepunk Game selling to end customers (end-user licensing), payments accepting and checking on
+
+
+Maxbuff Coöperatie U.A., a Dutch company with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, in respect of game development, tests
 
 
 (hereinafter referred to as “we” or “us”) respects your privacy and provides you with this Privacy and Cookie Policy (hereinafter referred to as “Privacy Policy” or “Privacy and Cookie Policy”).
@@ -73,10 +76,7 @@ If you contact our technical support, we may require and process other data to h
 We may collect data about you from other individuals — for example, if that individual has sent you a product or gift card or invited you to participate in a game or service.
 
 
-When you make any payments, the payment service providers and/or we may ask you to provide certain personally identifiable information, such as full name, billing address, email address, phone number, etc. We use services from well-known and secure service providers; however, please note that the service provider has its own privacy policy which we advise you to review before sharing your information. Payment service providers process your data with their own applicable legal requirements. We and the payment service providers are not joint data controllers but are separate controllers. We may process billing (payment) data (billing address, method of payment, or other payment information), your full name, home or mobile telephone number, address, data about purchases of our products and services received from you, and/or payment service providers in a volume and for the period required by applicable law, including but not limited to tax purposes. We do not, however, receive any of your actual payment details. 
-
-
-When you purchase our game and other services, you will submit your data via our online store provider and payment provider - Shopify, we collect such information you identified during the purchasing process in the online store:
+When you purchase our game and other services, you will submit your data via our online store provider and payment provider - Shopify (https://www.shopify.com), we collect such information you identified during the purchasing process in the online store:
 * full name or name you indicated
 * email address 
 * mailing and billing address
@@ -85,6 +85,34 @@ When you purchase our game and other services, you will submit your data via our
 * information about payment
 * other information that you can provide during online shopping
 Shopify processes your data with its own applicable legal requirements. We and the online store provider are not joint data controllers but are separate controllers. We advise you to review the Shopify Privacy Policy (available on the website www.shopify.com) before sharing your data.
+
+
+When you make any payments, the payment service providers and/or we may ask you to provide certain personally identifiable information, such as full name, billing address, email address, phone number, etc. We use services from well-known and secure service providers; however, please note that the service provider has its own privacy policy which we advise you to review before sharing your information. Payment service providers process your data with their own applicable legal requirements. We and the payment service providers are not joint data controllers but are separate controllers. We may process billing (payment) data (billing address, method of payment, or other payment information), your full name, home or mobile telephone number, address, data about purchases of our products and services received from you, and/or payment service providers in a volume and for the period required by applicable law, including but not limited to tax purposes. We do not, however, receive any of your actual payment details. 
+
+
+If you make payments for our game and other services via our payment provider - Stripe (www.stripe.com), we collect such information you identified during the payment:
+* full name or name you indicated
+* payment email address 
+* billing address
+* phone number
+* country
+* information about payment
+* other information that you can provide during payment
+Stripe processes your data with its own applicable legal requirements. We and the payment service providers are not joint data controllers but are separate controllers. We advise you to review the Stripe Privacy Policy (available on the website www.stripe.com) before sharing your data.
+
+
+If you make payments for our game and other services via our payment provider - Mollie (www.mollie.com), we collect such information you identified during the payment:
+* full name or name you indicated
+* payment email address 
+* billing address
+* phone number
+* country
+* information about payment
+* other information that you can provide during payment
+Mollie and its affiliates in this context processes your data with its own applicable legal requirements. We and the payment service providers are not joint data controllers but are separate controllers. We advise you to review the Mollie Privacy Policy (available on the website www.mollie.com) before sharing your data.
+
+
+If you make payments for our game and other services via another payment provider, we advise you to review the Privacy Policy of the relevant payment provider before sharing your data.
 
 
 Our websites may include certain social media features such as the Facebook "Like" button, and widgets such as the "Share this" button or interactive mini-programs that run on our websites. These features may collect your Internet Protocol (“IP”) address, which pages of our websites you are visiting, and may set a cookie to enable the feature to function properly. Social media features and widgets are hosted by a third party or hosted directly on our websites. Your interactions with these features are governed by the privacy policy of the company providing the feature.
@@ -263,8 +291,15 @@ Our goal is to resolve disputes fairly and quickly. For all disputes against us,
 14. Governing Law and Dispute Resolution
 
 
+Regarding matters related to Corepunk B.V. and Maxbuff Coöperatie U.A.:
 This Privacy Policy shall be governed by and construed in accordance with the laws of the Netherlands. This Privacy Policy shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. 
 By agreeing to this Privacy Policy, in the event of any claim you may have arising from or related hereto, you agree to the exclusive personal and subject matter jurisdiction of the courts located in Amsterdam, the Netherlands, for making and resolving any such claims, and hereby waive any right to participate in any type of lawsuit brought and/or maintained as a class action or similar in nature to a class action. 
+Notwithstanding anything to the contrary, we may apply to any court of competent jurisdiction for injunctive or other equitable relief.
+
+
+Regarding matters related to COREPUNK GLOBAL LLC.:
+This Privacy Policy shall be governed by and construed in accordance with the laws of the Republic of Kazakhstan. This Privacy Policy shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. 
+By agreeing to this Privacy Policy, in the event of any claim you may have arising from or related hereto, you agree to the exclusive personal and subject matter jurisdiction of the courts located in Almaty, the Republic of Kazakhstan, for making and resolving any such claims, and hereby waive any right to participate in any type of lawsuit brought and/or maintained as a class action or similar in nature to a class action. 
 Notwithstanding anything to the contrary, we may apply to any court of competent jurisdiction for injunctive or other equitable relief.
 
 
@@ -280,5 +315,12 @@ Corepunk B.V.
 Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands
 
 
+COREPUNK GLOBAL LLC.
+050060, Republic of Kazakhstan, Almaty city, Bostandyk district, Khusainova street, house No. 281
+
+
+Maxbuff Coöperatie U.A.
+Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands
+
+
 Email: support@corepunk.com
-{July 2024}
