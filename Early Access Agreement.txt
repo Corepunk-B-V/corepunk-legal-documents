@@ -1,7 +1,7 @@
 ﻿EARLY ACCESS AGREEMENT
 
 
-Last revised: 26th November 2024
+Last revised: 10th December 2024
 
 
 This Early Access Agreement governs your access and use of Gaming Services, including but not limited to Early Access to COREPUNK GAME in version "Corepunk: Light Bless the King" and other Digital content. 
@@ -33,9 +33,7 @@ THE EARLY ACCESS AGREEMENT MAY BE PERIODICALLY UPDATED AND THE CURRENT VERSION I
 1. Parties
 This Early Access Agreement constitutes the general terms and conditions that govern your access to and use of Gaming Services, including but not limited to Early Access to COREPUNK GAME in version "Corepunk: Light Bless the King" and other Digital content, between 
 1.1. Us:
-COREPUNK B.V., a Dutch company, registered under number 69946868, with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, in respect of Preorders purchased by customers until November 26, 2024, or
-COREPUNK GLOBAL LLC., a Kazakhstan company, registered under number 240540026644, with a registered office at 050060, Republic of Kazakhstan, Almaty city, Bostandyk district, Khusainova street, house No. 281, in respect of other orders and purchases, 
-(hereinafter referred to as “we” or “us”)
+COREPUNK B.V., a Dutch company, registered under number 69946868, with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, (hereinafter referred to as “we” or “us”)
 and 
 1.2. You, a natural person using Gaming services, including but not limited to Early access to the COREPUNK GAME in accordance with this Agreement, or preordered Early access to the COREPUNK GAME in accordance with Preorder Agreement (hereinafter referred to as “you” or “yours” or “customer”),
 (hereinafter referred to as “Agreement”).
@@ -256,9 +254,8 @@ Upon termination or suspension:
 
 19. Dispute resolution and governing law
 19.1. To expedite resolution and control the cost of any Dispute, you and we agree to first attempt to negotiate any Dispute (except those Disputes expressly provided below) informally for at least thirty (30) days before initiating any court proceeding. Such informal negotiations commence upon written notice from one person to the other. We will send our notice to the email address you have provided to us. You will send your notice to the addresses mentioned in the Contact details. 
-19.2. If you entered into this Agreement with COREPUNK GLOBAL, then this Agreement will be governed by the laws of Kazakhstan. This Agreement shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. By agreeing to this Agreement, in the event of any claim you may have arising from or related to the Preorder or this Agreement you agree to the exclusive personal and subject matter jurisdiction of the courts located in Kazakhstan, Almaty city for making and resolving any such claims, and hereby waive any right to participate in any type of lawsuit brought and/or maintained as a class action or similar in nature to a class action. We reserve the right to make any claim against you and seek and be granted any legal or equitable remedy against you in any court anywhere in the world. List of subjects of pre-trial settlement of consumer disputes  is here https://www.gov.kz/memleket/entities/mti-kzpp/documents/details/320577?lang=ru .
-19.3. If you entered into this Agreement with COREPUNK B.V., then this Agreement will be governed by the laws of the Netherlands. This Agreement shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. By agreeing to this Agreement, in the event of any claim you may have arising from or related to the Preorder or this Agreement you agree to the exclusive personal and subject matter jurisdiction of the courts located in Amsterdam, the Netherlands, for making and resolving any such claims, and hereby waive any right to participate in any type of lawsuit brought and/or maintained as a class action or similar in nature to a class action. We reserve the right to make any claim against you and seek and be granted any legal or equitable remedy against you in any court anywhere in the world.
-19.4. Attorneys' Fees. In the event any litigation is brought by either party in connection with the Agreement, the prevailing party in such litigation shall be entitled to recover from the other party all the reasonable costs, attorneys' fees, and other expenses incurred by such prevailing party in the litigation insofar permitted under the law.
+19.2. If you entered into this Agreement with COREPUNK B.V., then this Agreement will be governed by the laws of the Netherlands. This Agreement shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. By agreeing to this Agreement, in the event of any claim you may have arising from or related to the Preorder or this Agreement you agree to the exclusive personal and subject matter jurisdiction of the courts located in Amsterdam, the Netherlands, for making and resolving any such claims, and hereby waive any right to participate in any type of lawsuit brought and/or maintained as a class action or similar in nature to a class action. We reserve the right to make any claim against you and seek and be granted any legal or equitable remedy against you in any court anywhere in the world.
+19.3. Attorneys' Fees. In the event any litigation is brought by either party in connection with the Agreement, the prevailing party in such litigation shall be entitled to recover from the other party all the reasonable costs, attorneys' fees, and other expenses incurred by such prevailing party in the litigation insofar permitted under the law.
 
 
 20. Other terms
@@ -270,12 +267,7 @@ Upon termination or suspension:
 20.6. Contact information. 
 (a) If to us. All notices given by you or required under the Agreement shall be in writing and addressed to:
 
-
-
-COREPUNK B.V., a Dutch company, registered under number 69946868, with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, in respect of Preorders purchased by customers until November 26, 2024, or
-
-
-COREPUNK GLOBAL LLC., a Kazakhstan company, registered under number 240540026644, with a registered office at 050060, Republic of Kazakhstan, Almaty city, Bostandyk district, Khusainova street, house No. 281, in respect of other orders and purchases. 
+COREPUNK B.V., a Dutch company, registered under number 69946868, with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands 
 
 
 * For questions regarding purchases, payments, cancellations and refunds, please contact: sales@corepunk.com
