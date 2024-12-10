@@ -1,7 +1,7 @@
 ﻿Privacy And Cookie Policy
 
 
-Last updated: 26th November,  2024
+Last updated: 10th December,  2024
 
 
 Overview
@@ -27,15 +27,8 @@ You are not required to provide your consent to this Privacy and Cookie Policy. 
 1. Who We Are
 
 
-COREPUNK GLOBAL LLC., a Kazakhstan company, registered under number 240540026644, with a registered office at 050060, Republic of Kazakhstan, Almaty city, Bostandyk district, Khusainova street, house No. 281, as an owner of the Corepunk Game and website
-
-
-Corepunk B.V., a Dutch company with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, in respect of Corepunk Game selling to end customers (end-user licensing), payments accepting and checking on
-
-
-Maxbuff Coöperatie U.A., a Dutch company with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, in respect of game development, tests
-
-
+Corepunk B.V., a Dutch company with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, 
+Maxbuff Coöperatie U.A., a Dutch company with a registered office at Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands, 
 (hereinafter referred to as “we” or “us”) respects your privacy and provides you with this Privacy and Cookie Policy (hereinafter referred to as “Privacy Policy” or “Privacy and Cookie Policy”).
 
 
@@ -313,10 +306,6 @@ If you have any questions, complaints, or comments regarding our Privacy Policy 
 
 Corepunk B.V. 
 Jan van Galenstraat 335, 1061 AZ Amsterdam, the Netherlands
-
-
-COREPUNK GLOBAL LLC.
-050060, Republic of Kazakhstan, Almaty city, Bostandyk district, Khusainova street, house No. 281
 
 
 Maxbuff Coöperatie U.A.
